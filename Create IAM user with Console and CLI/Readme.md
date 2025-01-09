@@ -24,7 +24,8 @@ This lab walks you through creating IAM Users using both the Console and Command
 
 <H2> ARCHITECTURE DIAGRAM </h2>
 
-![architecture diagram](https://github.com/user-attachments/assets/cf4a65d2-5cf9-4cb3-98d0-a8e4eaeccf7a)
+![architecture diagram](https://github.com/user-attachments/assets/660a5f83-8407-4141-899b-c1a46fa23803)
+
 
 
 <h2> TASK DETAILS </h2>
