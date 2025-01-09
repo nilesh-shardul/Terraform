@@ -52,6 +52,7 @@ This lab walks you through the steps to create an AMI from EC2 Instance using Te
 <H2> ARCHITECTURE DIAGRAM </h2>
 
 
+![architecture diagram](https://github.com/user-attachments/assets/94189baf-a306-4f87-a0c3-890875a1bb5a)
 
 
 
