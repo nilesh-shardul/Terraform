@@ -7,19 +7,15 @@ This lab walks you through to creation and testing of Amazon RDS MySQL Database 
 <h3> What is Terraform? </h3>
 
 <ol>			
-	<li>	It is an open-source IaaC (Infrastructure as a code) software tool where you define and create resources using providers in the declarative configuration language example JSON.	</li>
-	<li>	With Terraform, You can package and reuse the code in the form of modules.	</li>
-	<li>	It supports a number of cloud infrastructure providers such as AWS, Azure, GCP, IBM Cloud, OCI, etc. 	</li>
-	
-	<li>	terraform has four major commands: </li>	
+	<li>	It is an open-source IaaC (Infrastructure as a Code) software tool where you define and create resources using providers in the declarative configuration language example JSON. 	</li>
+	<li>	With Terraform, You can package and reuse the code in the form of modules. 	</li>
+	<li>	It supports a number of cloud infrastructure providers such as AWS, Azure, GCP, IBM Cloud, OCI, etc.  	</li>
+	<li>	Terraform has four major commands: 	</li>
+	<li>	terraform init 	</li>
+	<li>	terraform plan 	</li>
+	<li>	terraform apply 	</li>
+	<li>	terraform destroy 	</li>
 			
-				
-				1. terraform init 	
-				2. terraform plan 	
-				3. terraform apply 	
-				4. terraform destroy	
-			
-	
 </ol>			
 
 
