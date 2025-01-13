@@ -13,12 +13,12 @@ This lab walks you through to creation and testing of Amazon RDS MySQL Database 
 	
 	<li>	terraform has four major commands:	
 			
-		<ol>		
-			<li>	1. terraform init 	</li>
-			<li>	2. terraform plan 	</li>
-			<li>	3. terraform apply 	</li>
-			<li>	4. terraform destroy	</li>
-		</ol>		
+				
+				1. terraform init 	
+				2. terraform plan 	
+				3. terraform apply 	
+				4. terraform destroy	
+			
 	</li>
 </ol>			
 
