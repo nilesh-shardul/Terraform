@@ -11,7 +11,7 @@ This lab walks you through to creation and testing of Amazon RDS MySQL Database 
 	<li>	With Terraform, You can package and reuse the code in the form of modules.	</li>
 	<li>	It supports a number of cloud infrastructure providers such as AWS, Azure, GCP, IBM Cloud, OCI, etc. 	</li>
 	
-	<li>	terraform has four major commands:	
+	<li>	terraform has four major commands: </li>	
 			
 				
 				1. terraform init 	
@@ -19,7 +19,7 @@ This lab walks you through to creation and testing of Amazon RDS MySQL Database 
 				3. terraform apply 	
 				4. terraform destroy	
 			
-	</li>
+	
 </ol>			
 
 
