@@ -36,6 +36,7 @@ This lab walks you through to creation and testing of Amazon RDS MySQL Database 
 <H2> ARCHITECTURE DIAGRAM </h2>
 
 
+![architecture diagram](https://github.com/user-attachments/assets/489850ef-94c6-43c7-a65e-26d0956ee192)
 
 
 
