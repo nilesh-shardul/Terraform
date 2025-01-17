@@ -64,7 +64,8 @@ This lab walks you through AWS Elastic Load Balancing. Elastic Load Balancing au
 </ol>			
 
 <H2> ARCHITECTURE DIAGRAM </h2>
-![architecture diagram](https://github.com/user-attachments/assets/0d8d3509-0141-4c34-a6e5-69f337ee829c)
+
+![architecture diagram](https://github.com/user-attachments/assets/d288c6b2-7a94-4ff6-a8fe-26eb29ce4cba)
 
 
 <h2> TASK DETAILS </h2>
