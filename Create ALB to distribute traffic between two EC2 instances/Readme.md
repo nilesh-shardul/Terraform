@@ -34,7 +34,7 @@ This lab walks you through AWS Elastic Load Balancing. Elastic Load Balancing au
 	<li>	Due to the point above, internal load balancers can only route requests from clients with access to the VPC for the load balancer.	</li>
 	<li>	Both internet-facing and internal load balancers route requests to your targets using Private IP addresses.	</li>
 	<li>	Your targets do not need Public IP addresses to receive requests from an internal or an internet-facing load balancer.	</li>
-<ol>			
+</ol>			
 
 <h3> What is Terraform? </h3>
 
